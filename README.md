@@ -2,6 +2,21 @@
 
 A list of my toolchain for my daily business as IT Freelancer.
 
+## Mac Apps
+
+- [Magnet](https://apps.apple.com/de/app/magnet/id441258766?mt=12)
+- [Tunnelblick](https://tunnelblick.net/)
+- [MindMaster](https://www.edrawsoft.com/de/download-mindmaster.html#mac)
+- [Disk Inventory X](http://www.derlien.com/)
+- [Gimp](https://www.gimp.org/)
+- [EdrawMax](https://www.edrawsoft.com/de/download-edrawmax.html)
+
+## Windows Apps
+
+- [Mobaxterm](https://mobaxterm.mobatek.net/)
+- [WinSCP](https://winscp.net/eng/index.php)
+- [WinDirStat](https://windirstat.net/)
+
 ## Editors
 
 - [TextMate](https://macromates.com/)
