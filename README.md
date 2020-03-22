@@ -10,6 +10,8 @@ A list of my toolchain for my daily business as IT Freelancer.
 - [Disk Inventory X](http://www.derlien.com/)
 - [Gimp](https://www.gimp.org/)
 - [EdrawMax](https://www.edrawsoft.com/de/download-edrawmax.html)
+- [Pliim](https://zehfernandes.github.io/pliim/)
+- [TimeMachineEditor](https://tclementdev.com/timemachineeditor/)
 
 ## Windows Apps
 
