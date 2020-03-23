@@ -12,6 +12,7 @@ A list of my toolchain for my daily business as IT Freelancer.
 - [EdrawMax](https://www.edrawsoft.com/de/download-edrawmax.html)
 - [Pliim](https://zehfernandes.github.io/pliim/)
 - [TimeMachineEditor](https://tclementdev.com/timemachineeditor/)
+- [Alt-Tab-MacOS](https://github.com/lwouis/alt-tab-macos)
 
 ## Windows Apps
 
