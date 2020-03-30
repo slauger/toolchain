@@ -13,6 +13,10 @@ A list of my toolchain for my daily business as IT Freelancer.
 - [Pliim](https://zehfernandes.github.io/pliim/)
 - [TimeMachineEditor](https://tclementdev.com/timemachineeditor/)
 
+## Mac Helpers
+
+- [qlmarkdown](https://github.com/toland/qlmarkdown) (see also [#89](https://github.com/toland/qlmarkdown/issues/89))
+
 ## Windows Apps
 
 - [Mobaxterm](https://mobaxterm.mobatek.net/)
